@@ -1,63 +1,43 @@
-Eclipse Public License - v 2.0
+GMG Public License - v 2.0
 
-    THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE
+    THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS GMG
     PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION
     OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
 
-1. DEFINITIONS
+Definitions
+For the purposes of this End-User License Agreement:
 
-"Contribution" means:
+Agreement means this End-User License Agreement that forms the entire agreement between You and the Company regarding the use of the Application.
 
-  a) in the case of the initial Contributor, the initial content
-     Distributed under this Agreement, and
+Application means the software program provided by the Company downloaded by You to a Device, named Tecknix Software
 
-  b) in the case of each subsequent Contributor:
-     i) changes to the Program, and
-     ii) additions to the Program;
-  where such changes and/or additions to the Program originate from
-  and are Distributed by that particular Contributor. A Contribution
-  "originates" from a Contributor if it was added to the Program by
-  such Contributor itself or anyone acting on such Contributor's behalf.
-  Contributions do not include changes or additions to the Program that
-  are not Modified Works.
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to GMGLLC.
 
-"Contributor" means any person or entity that Distributes the Program.
+Content refers to content such as text, images, or source code that can be posted, uploaded, linked to or otherwise made available by You, regardless of the form of that content.
 
-"Licensed Patents" mean patent claims licensable by a Contributor which
-are necessarily infringed by the use or sale of its Contribution alone
-or when combined with the Program.
+Country refers to: America
 
-"Program" means the Contributions Distributed in accordance with this
-Agreement.
+Device means any device that can access the Application such as a computer or laptop..
 
-"Recipient" means anyone who receives the Program under this Agreement
-or any Secondary License (as applicable), including Contributors.
+Third-Party Services means any services or content (including data, information, applications and other products services) provided by a third-party that may be displayed, included or made available by the Application.
 
-"Derivative Works" shall mean any work, whether in Source Code or other
-form, that is based on (or derived from) the Program and for which the
-editorial revisions, annotations, elaborations, or other modifications
-represent, as a whole, an original work of authorship.
+You means the individual accessing or using the Application or the company, or other legal entity on behalf of which such individual is accessing or using the Application, as applicable.
 
-"Modified Works" shall mean any work in Source Code or other form that
-results from an addition to, deletion from, or modification of the
-contents of the Program, including, for purposes of clarity any new file
-in Source Code form that contains any contents of the Program. Modified
-Works shall not include works that contain only declarations,
-interfaces, types, classes, structures, or files of the Program solely
-in each case in order to link to, bind by name, or subclass the Program
-or Modified Works thereof.
+Acknowledgment
+By downloading or using the Application, You are agreeing to be bound by the terms and conditions of this Agreement. If You do not agree to the terms of this Agreement, do not download or do not use the Application.
 
-"Distribute" means the acts of a) distributing or b) making available
-in any manner that enables the transfer of a copy.
+This Agreement is a legal document between You and the Company and it governs your use of the Application made available to You by the Company.
 
-"Source Code" means the form of a Program preferred for making
-modifications, including but not limited to software source code,
-documentation source, and configuration files.
+The Application is licensed, not sold, to You by the Company for use strictly in accordance with the terms of this Agreement.
 
-"Secondary License" means either the GNU General Public License,
-Version 2.0, or any later versions of that license, including any
-exceptions or additional permissions as identified by the initial
-Contributor.
+You acknowledge you will not partake in.
+- Dissasembling or reverse engineer any software provided by GMGLLC.
+
+- Editing files or assets included in any software by GMGLLC.
+
+- Attempting to derive any source code from GMGLLC.
+
+- Redistributing any software by GMGLLC.
 
 2. GRANT OF RIGHTS
 
