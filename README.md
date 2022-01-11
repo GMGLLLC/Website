@@ -1,3 +1,3 @@
 # Website
 Website that GMGLLC.gg uses
-<Thank you github pages!>
+	<!-- Thank you, GitHub Pages <3 -->
